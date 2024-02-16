@@ -5,20 +5,35 @@ TI 1C
 
 
 Address  :	Alamat
+
 Address Book  :	Buku Alamat
+
 Administration  :	Administrasi
+
 Administration Domain  :	Ranah Administrasi
+
 Advisory System  :	Sistem Penasihat
+
 Affirmation  :	Penegasan
+
 Agenda  :	Agenda
+
 Algorithm  :	Algoritma
+
 Alias  :	Alias
+
 Align Left  :	Rata Kiri
+
 Align Right  :	Rata Kanan
+
 Alignment  :	Perataan
+
 Alternate  :	Silih
+
 Alternate Recipient  :	Penerima Pilihan
+
 Animation  :	Animasi
+
 Anonymous Remailer  :	Penyurat-Balik Anonim
 Append  :	Bubuh
 Application  :	Aplikasi
@@ -553,6 +568,7 @@ Status Bar:	Batang Status
 Stop:	Stop
 Stored Message Alert:	Siaga Pesan Tersimpan
 Style:	Gaya
+
 
 
 
