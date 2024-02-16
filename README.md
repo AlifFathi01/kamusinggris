@@ -553,7 +553,7 @@ Status Bar:	Batang Status
 Stop:	Stop
 Stored Message Alert:	Siaga Pesan Tersimpan
 Style:	Gaya
-![image](https://github.com/AlifFathi01/kamusinggris/assets/159992239/ecc9ebbf-dbae-42c8-a78b-71dbf53cb893)
+
 
 
 
