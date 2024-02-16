@@ -4,1100 +4,1066 @@ Alif Fathi Fauzaan
 TI 1C
 
 
-Address :	Alamat
+1.	Address :	Alamat
 
-Address Book :	Buku Alamat
+2.	Address Book :	Buku Alamat
 
-Administration :	Administrasi
+3.	Administration :	Administrasi
 
-Administration Domain :	Ranah Administrasi
+4.	Administration Domain :	Ranah Administrasi
 
-Advisory System :	Sistem Penasihat
+5.	Advisory System :	Sistem Penasihat
 
-Affirmation :	Penegasan
+6.	Affirmation :	Penegasan
 
-Agenda :	Agenda
+7.	Agenda :	Agenda
 
-Algorithm :	Algoritma
+8.	Algorithm :	Algoritma
 
-Alias :	Alias
+9.	Alias :	Alias
 
-Align Left :	Rata Kiri
+10.	Align Left :	Rata Kiri
 
-Align Right :	Rata Kanan
+11.	Align Right :	Rata Kanan
 
-Alignment :	Perataan
+12.	Alignment :	Perataan
 
-Alternate :	Silih
+13.	Alternate :	Silih
 
-Alternate Recipient :	Penerima Pilihan
+14.	Alternate Recipient :	Penerima Pilihan
 
-Animation :	Animasi
+15.	Animation :	Animasi
 
-Anonymous Remailer :	Penyurat-Balik Anonim	
+16.	Anonymous Remailer :	Penyurat-Balik Anonim	
 
-Append :	Bubuh
+17.	Append :	Bubuh
 
-Application :	Aplikasi
+18.	Application :	Aplikasi
 
-Apply :	Terapkan
+19.	Apply :	Terapkan
 
-Apply Design :	Desain Terapan
+20.	Apply Design :	Desain Terapan
 
-Arrange :	Susun
+21.	Arrange :	Susun
 
-Array :	Larik
+22.	Array :	Larik
 
-Artificial Intelligence :	Kecerdasan Buatan, Intelegensi Buatan
+23.	Artificial Intelligence :	Kecerdasan Buatan, Intelegensi Buatan
 
-Ascending :	            Menanjak, Urut Naik
+24.	Ascending :	            Menanjak, Urut Naik
 
-Attribute :	          Atribut
+25.	Attribute :	          Atribut
 
-Auto Clip Art :	Gambar Klip Otomatis
+26.	Auto Clip Art :	Gambar Klip Otomatis
 
-Auto-Correct :	Pembetulan Otomatis, Otokoreksi
+27.	Auto-Correct :	Pembetulan Otomatis, Otokoreksi
 
-Auto-Forward :	Maju Otomatis
+28.	Auto-Forward :	Maju Otomatis
 
-Auto-Replay :	Putar Ulang Otomatis
+29.	Auto-Replay :	Putar Ulang Otomatis
 
-Auto-Reply :	Balasan Otomatis
 
-Autofit :	Otofit
+30.	Auto-Reply :	Balasan Otomatis
 
-Autoformat :	Format Otomatis, Otoformat
+31.	Autofit :	Otofit
 
-Automatic Learning :	Pemelajaran Otomatis
+32.	Autoformat :	Format Otomatis, Otoformat
 
-Autoshapes :	Bentuk Otomatis
+33.	Automatic Learning :	Pemelajaran Otomatis
 
-Autosum :	Total Otomatis; Jumlah Otomatis
+34.	Autoshapes :	Bentuk Otomatis
 
-Back :	Balik; Belakang
+35.	Autosum :	Total Otomatis; Jumlah Otomatis
 
-Back Slash :	Garis Miring Kiri
+36.	Back :	Balik; Belakang
 
-Back Space :	Spasi Mundur
+37.	Back Slash :	Garis Miring Kiri
 
-Backtracking :	Lacak Balik
+38.	Back Space :	Spasi Mundur
 
-Backward Chaining :	Perantaian Balik
+39.	Backtracking :	Lacak Balik
 
-Band :	Pita
+40.	Backward Chaining :	Perantaian Balik
 
-Bandwidth :	Lebar Pita
+41.	Band :	Pita
 
-Bar :	Batang
+42.	Bandwidth :	Lebar Pita
 
-Bar-Code :	Kode Batang
+43.	Bar :	Batang
 
-Bar-Code Reader :	Pembaca Kode Batang
+44.	Bar-Code :	Kode Batang
 
-Bar-Code Scanner :	Pemindai Kode Batang
+45.	Bar-Code Reader :	Pembaca Kode Batang
 
-Base :	Basis
+46.	Bar-Code Scanner :	Pemindai Kode Batang
 
-Batch :	Tumpak
+47.	Base :	Basis
 
-Best-First Search :	Telusur Pertama Terbaik
+48.	Batch :	Tumpak
 
-Binary :	Biner
+49.	Best-First Search :	Telusur Pertama Terbaik
 
-Bit :	Bit
+50.	Binary :	Biner
 
-Bit Map :	Peta Bit
+51.	Bit :	Bit
 
-Blackboard Model :	Model Papan Tulis
+52.	Bit Map :	Peta Bit
 
-Blind Copy Recipient :	Penerima Kopi Buntu; Penerima Salin Buntu
+53.	Blackboard Model :	Model Papan Tulis
 
-Body :	Bodi; Badan
+54.	Blind Copy Recipient :	Penerima Kopi Buntu; Penerima Salin Buntu
 
-Body Text :	Teks Tubuh
+55.	Body :	Bodi; Badan
 
-Bold :	Tebal
+56.	Body Text :	Teks Tubuh
 
-Border :	Batas
+57.	Bold :	Tebal
 
-Breadth-First Search :	Telusur Pertama Lebar
+58.	Border :	Batas
 
-Break :	Putus
+59.	Breadth-First Search :	Telusur Pertama Lebar
 
-Broadcast Mail :	Surat Siaran
+60.	Break :	Putus
 
-Broadcast Videography :	Videografi Siaran
+61.	Broadcast Mail :	Surat Siaran
 
-Browse :	Ramban; Jelajah
+62.	Broadcast Videography :	Videografi Siaran
 
-Browsers :	Peramban; Penjelajah
+63.	Browse :	Ramban; Jelajah
 
-Buffer :	Penyangga
+64.	Browsers :	Peramban; Penjelajah
 
-Bug :	Kutu
+65.	Buffer :	Penyangga
 
-Bullet :	Bulet
+66.	Bug :	Kutu
 
-Button :	Tombol
+67.	Bullet :	Bulet
 
-Byte :	Bita
+68.	Button :	Tombol
 
-Cache Memory :	Memori Tembolok, Memori Singgahan
+69.	Byte :	Bita
 
-Cancel :	Batal
+70.	Cache Memory :	Memori Tembolok, Memori Singgahan
 
-Capacity :	Kapasitas
+71.	Cancel :	Batal
 
-Capslock:	Kancing Kapital
+72.	Capacity :	Kapasitas
 
-Caption:	Takarir
+73.	Capslock:	Kancing Kapital
 
-Card:	Kartu
+74.	Caption:	Takarir
 
-Cartridge:	Kartrid, Selongsong, Patrun
+75.	Card:	Kartu
 
-Cartridge Disk:	Disket Kartu
+76.	Cartridge:	Kartrid, Selongsong, Patrun
 
-Cascade:	Riam
+77.	Cartridge Disk:	Disket Kartu
 
-Cell:	Sel
+78.	Cascade:	Riam
 
-Center:	Tengah
+79.	Cell:	Sel
 
-Central Processing Unit (Cpu):	Unit Pengolah Pusat (Upp)
+80.	Center:	Tengah
 
-Change Case:	Ubah Karakter
+81.	Central Processing Unit (Cpu):	Unit Pengolah Pusat (Upp)
 
-Channel:	Saluran, Kanal
+82.	Change Case:	Ubah Karakter
 
-Character:	Aksara; Karakter
+83.	Channel:	Saluran, Kanal
 
-Chart:	Bagan
+84.	Character:	Aksara; Karakter
 
-Chatting:	Rumpi
+85.	Chart:	Bagan
 
-Clear:	Bersih; Bersihkan
+86.	Chatting:	Rumpi
 
-Click:	Klik
+87.	Clear:	Bersih; Bersihkan
 
-Client:	Klien
+88.	Click:	Klik
 
-Close:	Tutup
+89.	Client:	Klien
 
-Closed File:	Berkas Tertutup
+90.	Close:	Tutup
 
-Cluster:	Gugus; Rumpun
+91.	Closed File:	Berkas Tertutup
 
-Coding:	Pengodean
+92.	Cluster:	Gugus; Rumpun
 
-Color:	Warna
+93.	Coding:	Pengodean
 
-Color Monitor:	Monitor Warna
+94.	Color:	Warna
 
-Column:	Kolom
+95.	Color Monitor:	Monitor Warna
 
-Comments:	Komentar
+96.	Column:	Kolom
 
-Common Name:	Nama Umum
+97.	Comments:	Komentar
 
-Computer:	Komputer
+98.	Common Name:	Nama Umum
 
-Computer Aided:	Berbantuan Komputer
+99.	Computer:	Komputer
 
-Computer Aided Design (Cad):	Desain Berbantuan Komputer (Dbk)
+100.	Computer Aided:	Berbantuan Komputer
 
-Computer Aided Instruction:	Instruksi Berbantuan Komputer
+101.	Computer Aided Design (Cad):	Desain Berbantuan Komputer (Dbk)
 
-Computer Aided Manufacturing:	Pemanufakturan Berbantuan Komputer
+102.	Computer Aided Instruction:	Instruksi Berbantuan Komputer
 
-Computer Conference:	Konferensi Komputer
+103.	Computer Aided Manufacturing:	Pemanufakturan Berbantuan Komputer
 
-Computer Memory:	Memori Komputer
+104.	Computer Conference:	Konferensi Komputer
 
-Computer Network:	Jaringan Komputer
+105.	Computer Memory:	Memori Komputer
 
-Conclusion Part:	Bagian Kesimpulan
+106.	Computer Network:	Jaringan Komputer
 
-Content:	Isi
+107.	Conclusion Part:	Bagian Kesimpulan
 
-Content Type:	Tipe Isi
+108.	Content:	Isi
 
-Control(Ctrl):	Kontrol (Ktrl), Kendali
+109.	Content Type:	Tipe Isi
 
-Convert:	Ubah
+110.	Control(Ctrl):	Kontrol (Ktrl), Kendali
 
-Copy:	Salinan; Kopi
+111.	Convert:	Ubah
 
-Copy Recipient:	Penerima Salinan
+112.	Copy:	Salinan; Kopi
 
-Count:	Cacah
+113.	Copy Recipient:	Penerima Salinan
 
-Country Name:	Nama Negara
+114.	Count:	Cacah
 
-Crack:	Rengkah
+115.	Country Name:	Nama Negara
 
-Cracker:	Perengah
+116.	Crack:	Rengkah
 
-Create New:	Buat Baru
+117.	Cracker:	Perengah
 
-Cursor:	Kursor
+118.	Create New:	Buat Baru
 
-Custom Views:	Tilik Pesanan, Tilik Suai
+119.	Cursor:	Kursor
 
-Customizes:	Sesuai
+120.	Custom Views:	Tilik Pesanan, Tilik Suai
 
-Cut:	Potong
+121.	Customizes:	Sesuai
 
-Cut-Off:	Putus
+122.	Cut:	Potong
 
-Daemon:	Jurik
+123.	Cut-Off:	Putus
 
-Data:	Data
+124.	Daemon:	Jurik
 
-Data Analysis Display:	Tampilan Analisis Data
+125.	Data:	Data
 
-Data Anaysis:	Analisis Data
+126.	Data Analysis Display:	Tampilan Analisis Data
 
-Data Bank:	Bank Data
+127.	Data Anaysis:	Analisis Data
 
-Data Interchange:	Saling Tukar Data
+128.	Data Bank:	Bank Data
 
-Data Logging:	Pencatatan Data
+129.	Data Interchange:	Saling Tukar Data
 
-Data Processing:	Pemrosesan Data, Pengolahan Data
+130.	Data Logging:	Pencatatan Data
 
-Data Processor:	Pemroses Data
+131.	Data Processing:	Pemrosesan Data, Pengolahan Data
 
-Database:	Pangkalan Data, Basis Data
+132.	Data Processor:	Pemroses Data
 
-Datasheet:	Lembar Data
+133.	Database:	Pangkalan Data, Basis Data
 
-Date:	Tanggal
+134.	Datasheet:	Lembar Data
 
-Debug:	Awakutu
+135.	Date:	Tanggal
 
-Decimal:	Desimal
+136.	Debug:	Awakutu
 
-Declarative Knowledge:	Pengetahuan Deklaratif
+137.	Decimal:	Desimal
 
-Decoding:	Pengawasandian
+138.	Declarative Knowledge:	Pengetahuan Deklaratif
 
-Decrease:	Kurang; Susut
+139.	Decoding:	Pengawasandian
 
-Deduction:	Deduksi
+140.	Decrease:	Kurang; Susut
 
-Deductive Inference:	Inferensi Deduksi
+141.	Deduction:	Deduksi
 
-Deferred Delivery:	Pengiriman Tertunda
+142.	Deductive Inference:	Inferensi Deduksi
 
-Delete:	Hapus
+143.	Deferred Delivery:	Pengiriman Tertunda
 
-Delete Item:	Butir Hapus
+144.	Delete:	Hapus
 
-Delivery:	Pengiriman
+145.	Delete Item:	Butir Hapus
 
-Delivery Notification:	Pemberitahuan Pengiriman
+146.	Delivery:	Pengiriman
 
-Depth-First Search:	Telusur Pertama Kedalaman
+147.	Delivery Notification:	Pemberitahuan Pengiriman
 
-Descending:	Menurun, Urut Turun
+148.	Depth-First Search:	Telusur Pertama Kedalaman
 
-Design:	Desain; Rancangan
+149.	Descending:	Menurun, Urut Turun
 
-Desk Application:	Aplikasi Meja
+150.	Design:	Desain; Rancangan
 
-Digit:	Digit
+151.	Desk Application:	Aplikasi Meja
 
-Digital:	Digital
+152.	Digit:	Digit
 
+153.	Digital:	Digital
 
-Digital Computer:	Komputer Digital
 
-Direct Submission:	Submisi Langsung
+154.	Digital Computer:	Komputer Digital
 
-Direct User:	Pengguna Langsung
+155.	Direct Submission:	Submisi Langsung
 
-Directory:	Direktori
+156.	Direct User:	Pengguna Langsung
 
-Directory Information:	Informasi Direktori
+157.	Directory:	Direktori
 
-Directory Management:	Manajemen Direktori
+158.	Directory Information:	Informasi Direktori
 
-Directory Name:	Nama Direktori
+159.	Directory Management:	Manajemen Direktori
 
-Directory System:	Sistem Direktori
+160.	Directory Name:	Nama Direktori
 
-Directory System Agent:	Agen Sistem Direktori
+161.	Directory System:	Sistem Direktori
 
-Directory User:	Pengguna Direktori
+162.	Directory System Agent:	Agen Sistem Direktori
 
-Directory User Agent:	Agen Pengguna Direktori
+163.	Directory User:	Pengguna Direktori
 
-Disc:	Disket; Cakram; Diska
+164.	Directory User Agent:	Agen Pengguna Direktori
 
-Disclosure Of Other:	Penyingkapan Lain
+165.	Disc:	Disket; Cakram; Diska
 
-Disconnected Network Drive:	Pemacu Jaringan Tak-Tersambung
+166.	Disclosure Of Other:	Penyingkapan Lain
 
-Discuss:	Diskusi
+167.	Disconnected Network Drive:	Pemacu Jaringan Tak-Tersambung
 
-Disk Drive:	Penggerak Disket; Penggerak Cakram
+168.	Discuss:	Diskusi
 
-Disk Memory:	Memori Disket; Memori Cakram
+169.	Disk Drive:	Penggerak Disket; Penggerak Cakram
 
-Diskette:	Disket
+170.	Disk Memory:	Memori Disket; Memori Cakram
 
-Display:	Tayangan
+171.	Diskette:	Disket
 
-Display Station:	Monitor Peraga
+172.	Display:	Tayangan
 
-Distribution List:	Senarai Distribusi
+173.	Display Station:	Monitor Peraga
 
-Document:	Dokumen
+174.	Distribution List:	Senarai Distribusi
 
-Document Delivery:	Pengiriman Dokumen
+175.	Document:	Dokumen
 
-Document Interchange:	Saling Tukar Dokumen
+176.	Document Delivery:	Pengiriman Dokumen
 
-Domain:	Ranah
+177.	Document Interchange:	Saling Tukar Dokumen
 
-Domain Knowledge:	Pengetahuan Ranah
+178.	Domain:	Ranah
 
-Domain Model:	Model Ranah
+179.	Domain Knowledge:	Pengetahuan Ranah
 
-Domain Name Server:	Server Nama Ranah; Peladen Nama Ranah
+180.	Domain Model:	Model Ranah
 
-Down:	Anjlok
+181.	Domain Name Server:	Server Nama Ranah; Peladen Nama Ranah
 
-Download:	Unduh
+182.	Down:	Anjlok
 
-Drag:	Seret
+183.	Download:	Unduh
 
-Draw:	Gambar; Lukis
+184.	Drag:	Seret
 
-Draw Table:	      Buat Tabel
+185.	Draw:	Gambar; Lukis
 
-Drawing:	Penggambaran
+186.	Draw Table:	      Buat Tabel
 
-Drive:	Penggerak
+187.	Drawing:	Penggambaran
 
-Dummy:	Tiruan
+188.	Drive:	Penggerak
 
-Edit:	Edit
+189.	Dummy:	Tiruan
 
-Electronic Data Proccessing:	Pemrosesan Data Elektronik (Pde)(Edp)
+190.	Edit:	Edit
 
-Electronic Archive:	Arsip Elektronik
+191.	Electronic Data Proccessing:	Pemrosesan Data Elektronik (Pde)(Edp)
 
-Electronic Data:	Data Elektronik
+192.	Electronic Archive:	Arsip Elektronik
 
-Electronic Document:	Dokumen Elektronik
+193.	Electronic Data:	Data Elektronik
 
-Electronic Mail:	Surat Elektronik
+194.	Electronic Document:	Dokumen Elektronik
 
-Electronic Mailbox:	Kotak Surat Elektronik
+195.	Electronic Mail:	Surat Elektronik
 
-Electronic Messaging:	Pemesanan Elektronik
+196.	Electronic Mailbox:	Kotak Surat Elektronik
 
-Emoticon:	Ikon Emosi
+197.	Electronic Messaging:	Pemesanan Elektronik
 
-Encoded Information:	Informasi Tersandi
+198.	Emoticon:	Ikon Emosi
 
-Encoding:	Penyandian
+199.	Encoded Information:	Informasi Tersandi
 
-Encryption:	Enkripsi
+200.	Encoding:	Penyandian
 
-End:	Selesai; Tamat
+201.	Encryption:	Enkripsi
 
-Enter:	Enter
+202.	End:	Selesai; Tamat
 
-Entry:	Entri
+203.	Enter:	Enter
 
-Envelope:	Amplop
+204.	Entry:	Entri
 
-Episode:	Episode
+205.	Envelope:	Amplop
 
-Erase:	Hapus
+206.	Episode:	Episode
 
-Eraser:	Penghapus
+207.	Erase:	Hapus
 
-Error:	Galat
+208.	Eraser:	Penghapus
 
-Esc(Ape):	Hindar; Keluar Balik
+209.	Error:	Galat
 
-Evaluation Function:	Fungsi Evaluasi
+210.	Esc(Ape):	Hindar; Keluar Balik
 
-Exit:	Keluar
+211.	Evaluation Function:	Fungsi Evaluasi
 
-Expert System (Es):	Sistem Pakar (Sp)
+212.	Exit:	Keluar
 
-Expiration Date:	Tanggal Ekspirasi
+213.	Expert System (Es):	Sistem Pakar (Sp)
 
-Expiry Date Indication:	Indikasi Tanggal Kedaluwarsa
+214.	Expiration Date:	Tanggal Ekspirasi
 
-Explorer:	Penjelajah
+215.	Expiry Date Indication:	Indikasi Tanggal Kedaluwarsa
 
-Export:	Ekspor
+216.	Explorer:	Penjelajah
 
-Facsimile:	Faksimile
+217.	Export:	Ekspor
 
-Facsimile Machine:	Mesin Faksimile
+218.	Facsimile:	Faksimile
 
-Fax:	Faks
+219.	Facsimile Machine:	Mesin Faksimile
 
-Fax Board:	Papan Faks
+220.	Fax:	Faks
 
-Fax Machine:	Mesin Faks
+221.	Fax Board:	Papan Faks
 
-Fax Modem:	Modem Faks
+222.	Fax Machine:	Mesin Faks
 
-Feedback:	Balikan; Umpan Balik
+223.	Fax Modem:	Modem Faks
 
-Fetch:	Jemput; Ambil
+224.	Feedback:	Balikan; Umpan Balik
 
-Field:	Ruas
+225.	Fetch:	Jemput; Ambil
 
-Field Length:	Panjang Ruas
+226.	Field:	Ruas
 
-File:	Berkas
+227.	Field Length:	Panjang Ruas
 
-File Name:	Nama Berkas
+228.	File:	Berkas
 
-Filing:	Pemberkasan
+229.	File Name:	Nama Berkas
 
-Fill:	Isi
+230.	Filing:	Pemberkasan
 
-Fill Character:	Isi Karakter
+231.	Fill:	Isi
 
-Filter:	Tapis; Filter
+232.	Fill Character:	Isi Karakter
 
-Filtering:	Penapisan
+233.	Filter:	Tapis; Filter
 
-Find:	Cari; Temukan
+234.	Filtering:	Penapisan
 
-Firmware:	Peranti Tegar, Perangkat Tegar
+235.	Find:	Cari; Temukan
 
-Floppy Disk:	Disket Liuk; Cakram Liuk
+236.	Firmware:	Peranti Tegar, Perangkat Tegar
 
-Folder:	Pelipat
+237.	Floppy Disk:	Disket Liuk; Cakram Liuk
 
-Font:	Huruf; Fonta
+238.	Folder:	Pelipat
 
-Font Size:	Ukuran Huruf
+239.	Font:	Huruf; Fonta
 
-Footer:	Kaki Halaman
+240.	Font Size:	Ukuran Huruf
 
-Foreground:	Latar Depan
+241.	Footer:	Kaki Halaman
 
-Format:	Format
+242.	Foreground:	Latar Depan
 
-Format Painter:	Pewarna Format
+243.	Format:	Format
 
-Formula:	Formula, Rumus
+244.	Format Painter:	Pewarna Format
 
-Forward:	Depan
+245.	Formula:	Formula, Rumus
 
-Forward Chaining:	Perantaian Maju
+246.	Forward:	Depan
 
-Frame:	Bingkai
+247.	Forward Chaining:	Perantaian Maju
 
-Front-End:	Ujung Depan
+248.	Frame:	Bingkai
 
-Full Screen:	Layar Penuh
+249.	Front-End:	Ujung Depan
 
-Gateway:	Gerbang
+250.	Full Screen:	Layar Penuh
 
-General:	Umum
+251.	Gateway:	Gerbang
 
-Generate:	Bangkitkan
+252.	General:	Umum
 
-Get:	Dapatkan
+253.	Generate:	Bangkitkan
 
-Gigabyte:	Gigabita
+254.	Get:	Dapatkan
 
-Go To:	Menuju
+255.	Gigabyte:	Gigabita
 
-Gridlines:	Garis Kisi
+256.	Go To:	Menuju
 
-Hack:	Retas
+257.	Gridlines:	Garis Kisi
 
-Hacker:	Peretas
+258.	Hack:	Retas
 
-Hang:	Macet
+259.	Hacker:	Peretas
 
-Hanging Indent:	Inden Macet
+260.	Hang:	Macet
 
-Hard Disk:	Cakram Keras
+261.	Hanging Indent:	Inden Macet
 
-Hardware:	Perangkat Keras
+262.	Hard Disk:	Cakram Keras
 
-Header:	Tajuk
+263.	Hardware:	Perangkat Keras
 
-Heading:	Penajukan
+264.	Header:	Tajuk
 
-Help:	Bantuan
+265.	Heading:	Penajukan
 
-Heuristic Search:	Telusur Heuristik
+266.	Help:	Bantuan
 
-Hide:	Tersembunyi
+267.	Heuristic Search:	Telusur Heuristik
 
-Highlight:	Sorot
+268.	Hide:	Tersembunyi
 
-History:	Sejarah
+269.	Highlight:	Sorot
 
-Home:	Pangkal
+270.	History:	Sejarah
 
-Home Base:	Basis Pangkal
+271.	Home:	Pangkal
 
-Horizontal:	Horizontal
+272.	Home Base:	Basis Pangkal
 
-Hub:	Hub
+273.	Horizontal:	Horizontal
 
-Hyperlink:	Hipertaut
+274.	Hub:	Hub
 
-Identity (Id):	Identitas (Id); Tanda Kenal
+275.	Hyperlink:	Hipertaut
 
-If-Then Rule:	Kaidah Jika-Maka
+276.	Identity (Id):	Identitas (Id); Tanda Kenal
 
-If-Then Statement:	Pernyataan Jika-Maka
+277.	If-Then Rule:	Kaidah Jika-Maka
 
-Image Interpretation:	Inteprestasi Citra
+278.	If-Then Statement:	Pernyataan Jika-Maka
 
-Image Understanding:	Pemahaman Citra
+279.	Image Interpretation:	Inteprestasi Citra
 
-Image Recognition:	Rekognisi Citra
+280.	Image Understanding:	Pemahaman Citra
 
-Import:	Masuk; Impor
+281.	Image Recognition:	Rekognisi Citra
 
-In-Basket:	Masuk Keranjang
+282.	Import:	Masuk; Impor
 
-Inbox:	Kotak Masuk
+283.	In-Basket:	Masuk Keranjang
 
-Indent:	Inden
+284.	Inbox:	Kotak Masuk
 
-Index:	Indeks
+285.	Indent:	Inden
 
-Inference Engine:	Mesin Inferensi
+286.	Index:	Indeks
 
-Informatics:	Informatika
+287.	Inference Engine:	Mesin Inferensi
 
-Information:	Informasi
+288.	Informatics:	Informatika
 
-Information Object:	Objek Informasi
+289.	Information:	Informasi
 
-Information System:	Sistem Informasi
+290.	Information Object:	Objek Informasi
 
-Information Technology (It):	Teknologi Informasi (Ti)
+291.	Information System:	Sistem Informasi
 
-Input:	Masukan
+292.	Information Technology (It):	Teknologi Informasi (Ti)
 
-Input Data:	Data Masukan
+293.	Input:	Masukan
 
-Input/Output (I/O):	Masukan/Keluaran (M/K)
+294.	Input Data:	Data Masukan
 
-Insert:	Sisip, Sisipan
+295.	Input/Output (I/O):	Masukan/Keluaran (M/K)
 
-Install:	Instal
+296.	Insert:	Sisip, Sisipan
 
-Instruction:	Pembelajaran, Instruksi
+297.	Install:	Instal
 
-Integrated Software:	Perangkat Keras Terpadu
+298.	Instruction:	Pembelajaran, Instruksi
 
-Interactive Videography:	Videografi Interaktif
+299.	Integrated Software:	Perangkat Keras Terpadu
 
-Interface:	Antarmuka
+300.	Interactive Videography:	Videografi Interaktif
 
-Intranet:	Intranet
+301.	Interface:	Antarmuka
 
-Ip (Identification Personal):	Alamat Pi (Personal Address Identifikasi)
+302.	Intranet:	Intranet
 
-Italic:	Italik; Miring
+303.	Ip (Identification Personal):	Alamat Pi (Personal Address Identifikasi)
 
-Joining:	Penggabungan
+304.	Italic:	Italik; Miring
 
-Key:	Kunci; Tombol
+305.	Joining:	Penggabungan
 
-Key Field:	Medan Kunci; Medan Tombol
+306.	Key:	Kunci; Tombol
 
-Key Lock:	Terkunci
+307.	Key Field:	Medan Kunci; Medan Tombol
 
-Keyboard:	Papan Ketik; Papan Tombol
+308.	Key Lock:	Terkunci
 
-Keyboard Entry:	Entri Papan Ketik; Entri Papan Tombol
+309.	Keyboard:	Papan Ketik; Papan Tombol
 
-Keyboard Printer:	Pencetak Papan Ketik
+310.	Keyboard Entry:	Entri Papan Ketik; Entri Papan Tombol
 
-Keypad:	Bantalan Kunci
+311.	Keyboard Printer:	Pencetak Papan Ketik
 
-Keyword:	Kata Kunci; Kata Sandi
+312.	Keypad:	Bantalan Kunci
 
-Kilobyte:	Kilobita
+313.	Keyword:	Kata Kunci; Kata Sandi
 
-Knowledge Acquisition:	Persyaratan Pengetahuan
+314.	Kilobyte:	Kilobita
 
-Knowledge Base:	Basis Pengetahuan
+315.	Knowledge Acquisition:	Persyaratan Pengetahuan
 
-Knowledge Engineer:	Insinyur Pengetahuan
+316.	Knowledge Base:	Basis Pengetahuan
 
-Knowledge Engineering:	Rekayasa Pengetahuan
+317.	Knowledge Engineer:	Insinyur Pengetahuan
 
-Label:	Label
+318.	Knowledge Engineering:	Rekayasa Pengetahuan
 
-Landscape:	Lanskap
+319.	Label:	Label
 
-Launch:	Luncur
+320.	Landscape:	Lanskap
 
-Launching:	Peluncuran
+321.	Launch:	Luncur
 
-Leased Line:	Jalur Sewaan
+322.	Launching:	Peluncuran
 
-Left:	Kiri
-Legal Pleadings:	Pembelaan Legal
+323.	Leased Line:	Jalur Sewaan
 
-Letters And Fax:	Surat Dan Faks
+324.	Left:	Kiri
+325.	Legal Pleadings:	Pembelaan Legal
 
-Line:	Garis; Jalur
+326.	Letters And Fax:	Surat Dan Faks
 
-Links:	Taut
+327.	Line:	Garis; Jalur
 
-List:	       Senarai
+328.	Links:	Taut
 
-Load:	Muat
+329.	List:	       Senarai
 
-Lock:	Kunci
+330.	Load:	Muat
 
-Log In:	Log Masuk
+331.	Lock:	Kunci
 
-Log Off:	Log Keluar
+332.	Log In:	Log Masuk
 
-Log On:	Log Masuk
+333.	Log Off:	Log Keluar
 
-Log Out:	Log Keluar
+334.	Log On:	Log Masuk
 
-Lower Case:	Sosok (Huruf) Bawah
+335.	Log Out:	Log Keluar
 
-Macro:	Makro
+336.	Lower Case:	Sosok (Huruf) Bawah
 
-Macro Instructions:	Instruksi Makro
+337.	Macro:	Makro
 
-Macroprocessor:	Makroprosesor; Pemroses Makro
+338.	Macro Instructions:	Instruksi Makro
 
-Magnetic Disc Storage:	Penyimpan Disket Magnetik
+339.	Macroprocessor:	Makroprosesor; Pemroses Makro
 
-Mail:	Surat
+340.	Magnetic Disc Storage:	Penyimpan Disket Magnetik
 
-Mail Broadcaster:	Penyiar Surat
+341.	Mail:	Surat
 
-Mailbox:	Kotak Surat
+342.	Mail Broadcaster:	Penyiar Surat
 
-Mainframe:	Bingkai Induk; Kerangka Induk
+343.	Mailbox:	Kotak Surat
 
-Management Domain:	Ranah Manajemen
+344.	Mainframe:	Bingkai Induk; Kerangka Induk
 
-Map Network Drive:	Pemacu Jaringan Peta
+345.	Management Domain:	Ranah Manajemen
 
-Master Data:	Data Utama; Data Induk
+346.	Map Network Drive:	Pemacu Jaringan Peta
 
-Master File:	Berkas Induk
+347.	Master Data:	Data Utama; Data Induk
 
-Means-End Analysis:	Analisis Rerata-Akhir
+348.	Master File:	Berkas Induk
 
-Media Player:	Penggelar Media
+349.	Means-End Analysis:	Analisis Rerata-Akhir
 
-Megabyte:	Megabita
+350.	Media Player:	Penggelar Media
 
-Memo:	Memo
+351.	Megabyte:	Megabita
 
-Memory:	Memori
+352.	Memo:	Memo
 
-Memory Cache:	Memori Tembolok
+353.	Memory:	Memori
 
-Memory Capacity:	Kapasitas Memori
+354.	Memory Cache:	Memori Tembolok
 
-Menu:	Menu
+355.	Memory Capacity:	Kapasitas Memori
 
-Merge:	Gabung
+356.	Menu:	Menu
 
-Message:	Pesan
+357.	Merge:	Gabung
 
-Message Handling:	Penanganan Pesan
+358.	Message:	Pesan
 
-Message Retrieval:	Temu Kembali Pesan
+359.	Message Handling:	Penanganan Pesan
 
-Message Storage:	Penyimpanan Pesan
+360.	Message Retrieval:	Temu Kembali Pesan
 
-Message Transfer:	Transfer Pesan
+361.	Message Storage:	Penyimpanan Pesan
 
-Message Transfer Agent:	Agen Transfer Pesan
+362.	Message Transfer:	Transfer Pesan
 
-Microcomputer:	Mikrokomputer; Komputer Mikro
+363.	Message Transfer Agent:	Agen Transfer Pesan
 
-Microprocessor:	Mikroprosesor; Prosesor Mikro
+364.	Microcomputer:	Mikrokomputer; Komputer Mikro
 
-Minicomputer:	Minikomputer
+365.	Microprocessor:	Mikroprosesor; Prosesor Mikro
 
-Missing:	Penghilangan
+366.	Minicomputer:	Minikomputer
 
-Modem:	Modem
+367.	Missing:	Penghilangan
 
-Moderated Conference:	Konferensi Terpadu
+368.	Modem:	Modem
 
-Monitor:	Monitor
+369.	Moderated Conference:	Konferensi Terpadu
 
-Monitor Display:	Tampilan Monitor
+370.	Monitor:	Monitor
 
-Motherboard:	Papan Induk
+371.	Monitor Display:	Tampilan Monitor
 
-Mouse:	Tetikus
+372.	Motherboard:	Papan Induk
 
-Movie:	Film
+373.	Mouse:	Tetikus
 
-Multi-Tasking:	Penugasan Ganda
+374.	Movie:	Film
 
-Multimedia:	Multimedia
+375.	Multi-Tasking:	Penugasan Ganda
 
-Multiple Of Firing:	Ganda Penyalaan
+376.	Multimedia:	Multimedia
 
-Name Resolution:	Resolusi Nama
+377.	Multiple Of Firing:	Ganda Penyalaan
 
-Naming Authority:	Otoritas Penamaan
+378.	Name Resolution:	Resolusi Nama
 
-Natural Language:	Bahasa Alami
+379.	Naming Authority:	Otoritas Penamaan
 
-Network:	Jaringan
+380.	Natural Language:	Bahasa Alami
 
-Networking:	Jejaring
+381.	Network:	Jaringan
 
-New Mail:	Surat Baru
+382.	Networking:	Jejaring
 
-Nondelivery:	Takterkirim
+383.	New Mail:	Surat Baru
 
-Numbering:  	Penomoran
+384.	Nondelivery:	Takterkirim
 
-Numlock:	  Kunci Angka
+385.	Numbering:  	Penomoran
 
-O/R Address:	Alamat O/R
+386.	Numlock:	  Kunci Angka
 
-Object:	Objek
+387.	O/R Address:	Alamat O/R
 
-Off: 	Padam
+388.	Object:	Objek
 
-Office Automation:	Otomasi Kantor
+389.	Off: 	Padam
 
-Offline:	Terputus
+390.	Office Automation:	Otomasi Kantor
 
-Ok:	Oke
+391.	Offline:	Terputus
 
-On:	Hidup, On
+392.	Ok:	Oke
 
-On Line:	Terhubung; Tersambung
+393.	On:	Hidup, On
 
-Open:	Buka
+394.	On Line:	Terhubung; Tersambung
 
-Operating System (Os):	Sistem Operasi (So)
+395.	Open:	Buka
 
-Operator:	Operator
+396.	Operating System (Os):	Sistem Operasi (So)
 
-Optical Disk:	Disket Optik
+397.	Operator:	Operator
 
-Option:	Opsi; Pilihan
+398.	Optical Disk:	Disket Optik
 
-Originator:	Originator
+399.	Option:	Opsi; Pilihan
 
-Originator/Recipient:	Originator/Penerima
+400.	Originator:	Originator
 
-Other Documents:	Dokumen Lain
+401.	Originator/Recipient:	Originator/Penerima
 
-Out-Basket:	Keranjang Luar
+402.	Other Documents:	Dokumen Lain
 
-Outline:	Kerangka, Ragangan
+403.	Out-Basket:	Keranjang Luar
 
-Output:	Keluaran
+404.	Outline:	Kerangka, Ragangan
 
-Pack And Go:	Kemas Dan Jalankan
+405.	Output:	Keluaran
 
-Page Default:	Standar Halaman
+406.	Pack And Go:	Kemas Dan Jalankan
 
-Page Down (Pgdn):	Turun Halaman
+407.	Page Default:	Standar Halaman
 
-Page Number:	Nomor Halaman
+408.	Page Down (Pgdn):	Turun Halaman
 
-Page Preview:	Pratilik Halaman
+409.	Page Number:	Nomor Halaman
 
-Page Set Up:	Tata Halaman
+410.	Page Preview:	Pratilik Halaman
 
-Page Up (Pgup):	Naik Halaman
+411.	Page Set Up:	Tata Halaman
 
-Page Width:	Lebar Halaman
+412.	Page Up (Pgup):	Naik Halaman
 
-Paragraph:	Paragraf
+413.	Page Width:	Lebar Halaman
 
-Password:	Sandi Lewat
+414.	Paragraph:	Paragraf
 
-Paste:	Pasta, Rekat
+415.	Password:	Sandi Lewat
 
-Paste Special:	Spesial Pasta
+416.	Paste:	Pasta, Rekat
 
-Pause:	Jeda
+417.	Paste Special:	Spesial Pasta
 
-Percent Style:	Gaya Persentase
+418.	Pause:	Jeda
 
-Physical Delivery:	Pengiriman Fisik
+419.	Percent Style:	Gaya Persentase
 
-Physical Delivery Access:	Akses Pengiriman Fisik
+420.	Physical Delivery:	Pengiriman Fisik
 
-Picture:	Gambar
+421.	Physical Delivery Access:	Akses Pengiriman Fisik
 
-Pixel:	Piksel
+422.	Picture:	Gambar
 
-Port:	Pangkalan
+423.	Pixel:	Piksel
 
-Portrait:	Potret
+424.	Port:	Pangkalan
 
-Power:	Daya
+425.	Portrait:	Potret
 
-Preview:	Pratilik
+426.	Power:	Daya
 
-Preview Not Available:	Pratilik Taktersedia
+427.	Preview:	Pratilik
 
-Primary Storage:	Penyimpan Utama
+428.	Preview Not Available:	Pratilik Taktersedia
 
-Print:	Cetak
+429.	Primary Storage:	Penyimpan Utama
 
-Print Area:	Wilayah Cetak
+430.	Print:	Cetak
 
-Print Out:	Cetakan
+431.	Print Area:	Wilayah Cetak
 
-Print Preview:	Pratilik Cetak
+432.	Print Out:	Cetakan
 
-Print Screen:	Cetak Layar
+433.	Print Preview:	Pratilik Cetak
 
-Printer:	Pencetak
+434.	Print Screen:	Cetak Layar
 
-Private Domain Name:	Nama Ranah Pribadi
+435.	Printer:	Pencetak
 
-Private Management:	Manajemen Pribadi
+436.	Private Domain Name:	Nama Ranah Pribadi
 
-Probe:	Kuar
+437.	Private Management:	Manajemen Pribadi
 
-Process:	Proses
+438.	Probe:	Kuar
 
-Processor:	Pemroses; Prosesor
+439.	Process:	Proses
 
-Program:	Program
+440.	Processor:	Pemroses; Prosesor
 
-Programmer:	Pemrogram, Programer
+441.	Program:	Program
 
-Programmer Analyst:	Analis Pemrogram; Analis Programer
+442.	Programmer:	Pemrogram, Programer
 
-Programming:	Pemrograman
+443.	Programmer Analyst:	Analis Pemrogram; Analis Programer
 
-Programming Language:	Bahasa Pemrograman
+444.	Programming:	Pemrograman
 
-Prompt:	Siap Ketik
+445.	Programming Language:	Bahasa Pemrograman
 
-Proof Of Delivery Service:	Kedap Layanan Pengiriman
+446.	Prompt:	Siap Ketik
 
-Properties:	Properti
+447.	Proof Of Delivery Service:	Kedap Layanan Pengiriman
 
-Protect:	Proteksi; Perlindungan
+448.	Properties:	Properti
 
-Protocol:	Protokol
+449.	Protect:	Proteksi; Perlindungan
 
-Publications:	Publikasi
+450.	Protocol:	Protokol
 
-Query:	Permintaan, Kueri
+451.	Publications:	Publikasi
 
-Quit:	Keluar
+452.	Query:	Permintaan, Kueri
 
-Random Access:	Akses Acak
+453.	Quit:	Keluar
 
-Random Access Memory (Ram):	Memori Akses Acak
+454.	Random Access:	Akses Acak
 
-Read Only Memory (Rom):	Memori Baca-Saja
+455.	Random Access Memory (Ram):	Memori Akses Acak
 
-Reader:	Pembaca
+456.	Read Only Memory (Rom):	Memori Baca-Saja
 
-Ready:	Siap
+457.	Reader:	Pembaca
 
-Receipt:	Menerima
+458.	Ready:	Siap
 
-Received:	Diterima
+459.	Receipt:	Menerima
 
-Recipient:	Penerima
+460.	Received:	Diterima
 
-Record:	Utas; Rekam
+461.	Recipient:	Penerima
 
-Redo:	Jadi Lagi
+462.	Record:	Utas; Rekam
 
-Redundancy:	Kelewahan; Redundansi
+463.	Redo:	Jadi Lagi
 
-Refresh:	Segar
+464.	Redundancy:	Kelewahan; Redundansi
 
-Release:	Luncuran; Terbitan
+465.	Refresh:	Segar
 
-Remove:	Hapus
+466.	Release:	Luncuran; Terbitan
 
-Rename:	Ganti Judul, Nama Ulang
+467.	Remove:	Hapus
 
-Repeat:	Ulang
+468.	Rename:	Ganti Judul, Nama Ulang
 
-Replace:	Ganti
+469.	Repeat:	Ulang
 
-Replication:	Replikasi
+470.	Replace:	Ganti
 
-Reply:	Jawab
+471.	Replication:	Replikasi
 
-Reply All:	Jawab Semua
+472.	Reply:	Jawab
 
-Reports:	Laporan
+473.	Reply All:	Jawab Semua
 
-Reset:	Tata Ulang
+474.	Reports:	Laporan
 
-Resource:	Sumber Daya
+475.	Reset:	Tata Ulang
 
-Restart:	Start Ulang
+476.	Resource:	Sumber Daya
 
-Restore:	Simpan Ulang
+477.	Restart:	Start Ulang
 
-Resume:	Teruskan Lagi
+478.	Restore:	Simpan Ulang
 
-Retrieval:	Temu Kembali
-Retry:	Coba Lagi
+479.	Resume:	Teruskan Lagi
 
-Return:	Kembali
 
-Rewrite:	Tulis Ulang
+480.	Retrieval:	Temu Kembali
+481.	Retry:	Coba Lagi
 
-Right:	Kanan
+482.	Return:	Kembali
 
-Row:	Baris
+483.	Rewrite:	Tulis Ulang
 
-Ruler:	Mistar
+484.	Right:	Kanan
 
-Run:	Jalankan
+485.	Row:	Baris
 
-Save:	Simpan
+486.	Ruler:	Mistar
 
-Save As:	Simpan Sebagai
+487.	Run:	Jalankan
 
-Save As Html (Hyper Markup:	Simpan Sebagai Bahasa Markah Language) Hiper Teks (Bmht)
+488.	Save:	Simpan
 
-Scan:	Pindai
+489.	Save As:	Simpan Sebagai
 
-Scanner:	Pemindai
+490.	Save As Html (Hyper Markup:	Simpan Sebagai Bahasa Markah Language) Hiper Teks (Bmht)
 
-Screen:	Layar
+491.	Scan:	Pindai
 
-Scroll:	Menggulung
+492.	Scanner:	Pemindai
 
-Scroll Lock:	Kunci Gulung
+493.	Screen:	Layar
 
-Search:	Telusur
+494.	Scroll:	Menggulung
 
-Secondary Recipient:	Penerima Sekunder
+495.	Scroll Lock:	Kunci Gulung
 
-Sector:	Sektor
+496.	Search:	Telusur
 
-Secure Access:	Akses Aman
+497.	Secondary Recipient:	Penerima Sekunder
 
-Security:	Keamanan
+498.	Sector:	Sektor
 
-Segment:	Segmen
+499.	Secure Access:	Akses Aman
 
-Select:	Pilih
+500.	Security:	Keamanan
 
-Select All:	Pilih Semua
+501.	Segment:	Segmen
 
-Send:	Kirim
+502.	Select:	Pilih
 
-Send To:	Kirim Kepada
+503.	Select All:	Pilih Semua
 
-Sent Item:	Surat/Butir Terkirim
+504.	Send:	Kirim
 
-Series:	Seri
+505.	Send To:	Kirim Kepada
 
-Server:	Peladen; Server
+506.	Sent Item:	Surat/Butir Terkirim
 
-Set Up Show:	Tata Tampilan
+507.	Series:	Seri
 
-Setting:	Penataan
+508.	Server:	Peladen; Server
 
-Setup:	Tata
+509.	Set Up Show:	Tata Tampilan
 
-Shading:	Pembayangan
+510.	Setting:	Penataan
 
-Share Workbook:	Buku Kerja Bersama
+511.	Setup:	Tata
 
-Shareable Directory:	Direktori Terbagi
+512.	Shading:	Pembayangan
 
-Sheet:	Lembar
+513.	Share Workbook:	Buku Kerja Bersama
 
-Shift:	Alih
+514.	Shareable Directory:	Direktori Terbagi
 
-Shut Down:	Tutup Padam
+515.	Sheet:	Lembar
 
-Signature:	Tanda Tangan
+516.	Shift:	Alih
 
-Slash:	Garis Miring
+517.	Shut Down:	Tutup Padam
 
-Sleep:	Pudar
+518.	Signature:	Tanda Tangan
 
-Slide:	Salindia
+519.	Slash:	Garis Miring
 
-Slide Colour Scheme:	Skema Warna Salindia
+520.	Sleep:	Pudar
 
-Slide From Files:	Salindia Dari Berkas
+521.	Slide:	Salindia
 
-Slide From Outlines:	Salindia Dari Ragangan
+522.	Slide Colour Scheme:	Skema Warna Salindia
 
-Slide Layout:	Tata Letak Salindia
+523.	Slide From Files:	Salindia Dari Berkas
 
-Slide Miniature:	Miniatur Salindia
+524.	Slide From Outlines:	Salindia Dari Ragangan
 
-Slide Number:	Nomor Salindia
+525.	Slide Layout:	Tata Letak Salindia
 
-Slide Show:	Tampil Salindia
+526.	Slide Miniature:	Miniatur Salindia
 
-Slide Sorter:	Penyortir Salindia; Pemilah Salindia
+527.	Slide Number:	Nomor Salindia
 
-Slot:	Slot
+528.	Slide Show:	Tampil Salindia
 
-Software:	Perangkat Lunak
+529.	Slide Sorter:	Penyortir Salindia; Pemilah Salindia
 
-Sort:	Sortir; Pilah
-
-Sound:	Suara
-
-Source:	Sumber
-
-Space:	Spasi
-
-Spacebar:	Batang Spasi
-
-Speaker Noter:	Pencatat Pembicara
-
-Spelling:	Ejaan
-
-Split:	Belah
-
-Splitting:	Pembelahan
-
-Spread Sheet:	Lembar Sebar
-
-Standby:	Siaga
-
-Start:	Mulai; Star
-
-Start Up:	Hidupkan
-
-Status Bar:	Batang Status
-
-Stop:	Stop
-
-Stored Message Alert:	Siaga Pesan Tersimpan
-
-Style:	Gaya
+530.	Software:	Perangkat Lunak
 
 
 
